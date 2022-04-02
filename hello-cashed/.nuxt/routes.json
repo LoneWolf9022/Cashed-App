@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Blah",
+    "path": "/Blah",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/Blah.vue",
+    "chunkName": "pages/Blah",
+    "_name": "_651b0410"
+  },
+  {
+    "name": "CreateCards",
+    "path": "/CreateCards",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/CreateCards.vue",
+    "chunkName": "pages/CreateCards",
+    "_name": "_0ae640f8"
+  },
+  {
+    "name": "Dashboard",
+    "path": "/Dashboard",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/Dashboard.vue",
+    "chunkName": "pages/Dashboard",
+    "_name": "_7913c8f6"
+  },
+  {
+    "name": "FormYourGoals",
+    "path": "/FormYourGoals",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/FormYourGoals.vue",
+    "chunkName": "pages/FormYourGoals",
+    "_name": "_115644da"
+  },
+  {
+    "name": "GiftsandDonations",
+    "path": "/GiftsandDonations",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/GiftsandDonations.vue",
+    "chunkName": "pages/GiftsandDonations",
+    "_name": "_1786b184"
+  },
+  {
+    "name": "goals",
+    "path": "/goals",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/goals.vue",
+    "chunkName": "pages/goals",
+    "_name": "_2367d95e"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/Register.vue",
+    "chunkName": "pages/Register",
+    "_name": "_69d3ff7c"
+  },
+  {
+    "name": "Wallet",
+    "path": "/Wallet",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/Wallet.vue",
+    "chunkName": "pages/Wallet",
+    "_name": "_4537ff50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/vipulkumar/Documents/GitHub/hello-cashed/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_41faff63"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cards",
+  "info": {
+    "name": "card"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "card_type": {
+      "type": "string"
+    },
+    "amount": {
+      "type": "decimal"
+    },
+    "budget_type": {
+      "type": "string"
+    }
+  }
+}

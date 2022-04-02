@@ -1,0 +1,11 @@
+{
+  "SiteFooter": {
+    "description": "Auto imported from components/SiteFooter.vue"
+  },
+  "SiteHeader": {
+    "description": "Auto imported from components/SiteHeader.vue"
+  },
+  "SiteNavigation": {
+    "description": "Auto imported from components/SiteNavigation.vue"
+  }
+}

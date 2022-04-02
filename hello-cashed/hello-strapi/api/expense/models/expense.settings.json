@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "expenses",
+  "info": {
+    "name": "expense"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MerchantName": {
+      "type": "string"
+    },
+    "CardType": {
+      "type": "string"
+    },
+    "Amount": {
+      "type": "decimal"
+    },
+    "CreatedOn": {
+      "type": "date"
+    }
+  }
+}
