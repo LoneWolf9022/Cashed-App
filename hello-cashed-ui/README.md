@@ -1,20 +1,16 @@
 # hello-cashed
 
-## Build Setup
+## Project Setup
 
 ```bash
 # install dependencies
 $ yarn install
+or
+$ npm install
 
 # serve with hot reload at localhost:3000
 $ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
+or
+$ npm run dev
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
